@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5329e27d46d5dc0d5bf37327b028cdbf63a119bb",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-04 22:05:11",
+    "files": 2,
+    "merge": false,
+    "message": "add gh actions badge to readme\n"
+  },
+  "remote": "https://github.com/ropensci/hoardr",
+  "pkg": "hoardr"
+}
