@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f64427345e5f5173981b81aa3cec688cf9a1dc81",
+    "author": "Tamás Stirling <49147718+stitam@users.noreply.github.com>",
+    "time": "2024-01-23 09:08:19",
+    "files": 9,
+    "merge": false,
+    "message": "Final edits before v0.5.4 (#25)\n\n"
+  },
+  "repo": "https://github.com/ropensci/hoardr",
+  "pkg": "hoardr"
+}
