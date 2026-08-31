@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7c42ab6cbd4ce0095ba920ebbfbc0a78e6200eeb",
+    "author": "Tamás Stirling <49147718+stitam@users.noreply.github.com>",
+    "time": "2025-01-18T15:56:13Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #28 from stitam/release\n\n Final edits before v0.5.5"
+  },
+  "repo": "https://github.com/ropensci/hoardr",
+  "pkg": "hoardr",
+  "time": "2026-08-31T07:26:33Z"
+}
